@@ -1,7 +1,7 @@
 <h1 align="center">Gerador de senhas</h1>
 
 <p align="center">
-#Projeto feito para estudo de JavaScript puro, um gerador de senhas com a possibilidade do usuário escolher os tipos e a quantidade de caracteres para gerar uma senha, com botão copiar para área de trasferência.<br/>
+#Projeto feito para estudo de JavaScript puro, calculadora bem simples feita com HTML, CSS E JavaScript.<br/>
 </p>
 
 <p align="center">
