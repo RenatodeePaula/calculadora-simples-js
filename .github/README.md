@@ -1,4 +1,4 @@
-<h1 align="center">Gerador de senhas</h1>
+<h1 align="center">Calculadora Simples</h1>
 
 <p align="center">
 #Projeto feito para estudo de JavaScript puro, calculadora bem simples feita com HTML, CSS E JavaScript.<br/>
